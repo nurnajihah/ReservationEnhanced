@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="textViewName">Name</string>
+    <string name="editTextName">Enter Name</string>
+    <string name="textViewPhone">Telephone</string>
+    <string name="editTextPhone">Enter Mobile Number</string>
+    <string name="textViewSizeOfGroup">Size Of Group</string>
+    <string name="toggleButton">Smoking Area</string>
+    <string name="toggleButton2">Non-Smoking Area</string>
+    <string name="checkBox">Smoking Area</string>
+    <string name="buttonReset">reset</string>
+    <string name="buttonDisplay">reserve</string>
+    <string name="textViewDay">Day</string>
+    <string name="textViewTime">Time</string>
+    <string name="checkboxSmoking">Smoking</string>
+</resources>
